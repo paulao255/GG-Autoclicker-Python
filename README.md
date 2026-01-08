@@ -1,2 +1,2 @@
 # GG-Autoclicker-Python
-### A repository for my GG Autoclicker application, created with Python.
+### An autoclicker created with Tkinter.
